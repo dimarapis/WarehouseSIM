@@ -12,7 +12,7 @@ This repository is a placeholder for an upcoming conference submission. The main
 ## 🎓 Authors
 
 - [Dimitrios Arapis](https://www.linkedin.com/in/dimarapis/)
-- [Andrea Valone](https://www.linkedin.com/in/andrea-vallone/)
+- [Andrea Vallone](https://www.linkedin.com/in/andrea-vallone/)
 - [Milad jami](https://www.linkedin.com/in/milajam/)
 - [Lazaros Nalpantidis](https://www.linkedin.com/in/lanalpa/)
 
