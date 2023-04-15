@@ -13,7 +13,7 @@ This repository is a placeholder for an upcoming conference submission. The main
 
 - [Dimitrios Arapis](https://www.linkedin.com/in/dimarapis/)
 - [Andrea Vallone](https://www.linkedin.com/in/andrea-vallone/)
-- [Milad jami](https://www.linkedin.com/in/milajam/)
+- [Milad Jami](https://www.linkedin.com/in/milajam/)
 - [Lazaros Nalpantidis](https://www.linkedin.com/in/lanalpa/)
 
 _Affiliation details will be provided upon submission._
