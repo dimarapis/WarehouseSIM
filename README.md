@@ -9,6 +9,10 @@ This repository is a placeholder for an upcoming conference submission. The main
 
 **Abstract:** _The abstract will be provided upon submission._
 
+## ⬇️ Dataset download
+
+To access and download the dataset this private link can be used: [WarehouseSIM dataset](https://figshare.com/s/c83daa843a6038161751) --- In case of acceptance, a public url linking the dataset to this paper will be created. 
+
 ## 🎓 Authors
 
 - [Dimitrios Arapis](https://www.linkedin.com/in/dimarapis/)
