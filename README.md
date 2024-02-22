@@ -1,7 +1,7 @@
 # Multi-Task Learning for Industrial Mobile Robot Perception Using a Simulated Warehouse Dataset
 
 ## 📝 About this Repository
-This repository is a placeholder for an upcoming conference submission. The main purpose of this repository is to provide a convenient way for reviewers and other interested parties to access our work once it's updated.
+This repository contains the code for MTL models and the download link for the synthetic warehouse dataset and accompanies the submission below.
 
 ## 📄 Submission Details
 
