@@ -20,31 +20,9 @@ To access and download the dataset this private link can be used: [WarehouseSIM 
 - [Milad Jami](https://www.linkedin.com/in/milajam/)
 - [Lazaros Nalpantidis](https://www.linkedin.com/in/lanalpa/)
 
-_Affiliation details will be provided upon submission._
-
-
-## 📅 Important Dates
-
-- **Paper Submission Deadline:** ~~17 April 2023~~ 1 May 2023
-- **Author Notification:** 15 June 2023
-- **Camera-Ready Deadline:** 30 June 2023
-- **Conference Dates:** 4-7 September 2023
-
-## 🛠️ Contents (Coming Soon)
-
-This repository will include:
-
-- Source code
-- Link to simulated dataset
-- Samples of dataset
-- Pre-trained models
 
 ## ✉️ Contact Information
 
 For any questions or comments, please feel free to reach out:
 
 - **Dimitrios Arapis** [dimara@dtu.dk](mailto:dimara@dtu.dk)
-
----
-
-**⚠️ Note:** This repository is a placeholder. Please check back later for updates.
